@@ -1,3 +1,4 @@
 mydefault: "master 2 default"
+override: "none"
 foo:
   bar: "hello world"
